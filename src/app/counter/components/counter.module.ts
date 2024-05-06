@@ -1,14 +1,10 @@
-// import { NgModule } from "@angular/core";
-// import { CounterComponent } from "./counter/counter.component";
+import { NgModule } from '@angular/core';
 
 
-
-
-// @NgModule({
-//     declarations:[
-//         CounterComponent
-        
-//     ]
-
-// })
-// export class CounterModule{}
+@NgModule({
+  declarations: [
+  ],
+  exports: [
+  ]
+})
+export class CounterModule {}
